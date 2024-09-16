@@ -1,4 +1,5 @@
 __Crypto Wallet__
+
 A web-based wallet for the DAI stable coin on the Ethereum network using Truffle, Ganache, Web3.js, and React.js.
 
 **Table of Contents**
